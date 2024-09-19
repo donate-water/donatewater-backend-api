@@ -1,0 +1,5 @@
+0,Yes; it is fully functional and still in use
+1,Yes; it is partially functional and still in use
+2,No; it is not functional and not in use
+3,No; it is abandoned
+4,I don't know

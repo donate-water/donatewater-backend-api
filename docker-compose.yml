@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  iiasa.fieldsurvey.httpapi.host:
+    image: ${DOCKER_REGISTRY-}iiasafieldsurveyhttpapihost
+    build:
+      context: .
+      dockerfile: src/IIASA.FieldSurvey.HttpApi.Host/Dockerfile

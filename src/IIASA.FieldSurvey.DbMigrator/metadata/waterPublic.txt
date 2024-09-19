@@ -1,0 +1,3 @@
+0,Publicly Owned
+1,Privately Owned
+2,Don't know

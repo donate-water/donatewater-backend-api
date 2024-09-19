@@ -1,0 +1,19 @@
+1,waterSourceLocation,MapLocation,Specify the location of the water source by touching on the map
+2,volunteerLocation,DeviceGpsLocation,Device current location
+3,waterSourceDistanceImages,Images,Take the picture of your water source from 20 - 30 meters distance
+4,waterSourceCloseupImages,Images,Take a closer and clear picture of the water source
+5,waterSourceSurroundImages,Images,Take a picture of the water source surrounding (with or withoutpeople fetching water; the water source should be visible in the picture)
+6,waterType,QnA,What type of water source is it?
+7,waterSourceFunc,QnA,Is the water source functional and still in use?
+8,waterSourceNearby,QnA,Are there any other water sources nearby?
+9,waterState,QnA,How does the water from the water source look like ? (Water quality)
+10,waterDrinkable,QnA,Is the water drinkable?
+11,waterPublic,QnA,Is the water source publicly or privately owned?
+12,waterUsed,QnA,Is the water source being used by people for getting drinking water?
+13,waterTreated,QnA,Do the people treat the water from the water source for drinking?
+14,responsibleForFetch,QnA,Who is primarily responsible for fetching water?
+15,waterFree,QnA,Do the people pay for getting water from the water source?
+16,peopleTravelToWaterSource,QnA,How many minutes or hours does it take people to get to the watersource?
+17,doYouQueue,QnA,Do you queue to get water from this water source?
+18,whySourceAbandoned,QnA,Why is the water source abandoned, is it due to damage or no water at all?
+19,comment,Comment,Do you have any comments about the water source?

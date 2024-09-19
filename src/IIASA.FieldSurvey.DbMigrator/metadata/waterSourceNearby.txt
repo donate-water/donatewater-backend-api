@@ -1,0 +1,3 @@
+0,Yes; there are other water sources nearby.
+1,No; there are no other water sources nearby.
+2,I am not sure.

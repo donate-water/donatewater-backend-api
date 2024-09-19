@@ -1,0 +1,10 @@
+0,Only Men
+1,Only Women
+2,Majority Men
+3,Majority Women
+4,Men and Women equally
+5,Children
+6,Girls
+7,Boys
+8,Women and Children
+9,Dont know

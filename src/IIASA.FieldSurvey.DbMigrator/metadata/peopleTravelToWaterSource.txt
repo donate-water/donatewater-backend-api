@@ -1,0 +1,12 @@
+0,Within 1-5 mins of walking
+1,Within 5-10 mins of walking
+2,Within 10-20 mins of walking
+3,Within 20-30 mins of walking
+4,Within 30-40 mins of walking
+5,Within 40-50 mins of walking
+6,Within 1 hour of walking
+7,Within 2 hours of walking
+8,Within 3-5 hours of walking
+9,Within 5-12 hours of walking
+10,Over 12 hours of walking
+11,Don't know

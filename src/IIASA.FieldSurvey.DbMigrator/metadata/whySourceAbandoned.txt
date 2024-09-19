@@ -1,0 +1,14 @@
+0,It was abandoned due to damage.
+1,The reason was lack of water.
+2,Due to both damage and lack of water.
+3,I don't know.
+4,Other (please specify)
+10,Broken parts
+11,Blockage
+12,No More Water
+13,No electricity 
+14,Dirty Water
+15,Damaged Pipes
+16,Turned Off
+17,Not working well
+18,Other

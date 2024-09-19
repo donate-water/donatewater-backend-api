@@ -1,0 +1,9 @@
+0,No treatment
+1,Yes; with potassium alum
+2,Yes; they boil the water
+3,Yes; with chlorine solution
+4,Yes; other treatment
+5,They let the water settle before use
+6,Use water filter
+7,Don't know
+8, Other

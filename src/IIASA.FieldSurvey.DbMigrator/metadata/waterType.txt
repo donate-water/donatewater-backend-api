@@ -1,0 +1,16 @@
+0,Bore Hole
+1,Stream
+2,River
+3,Lake
+4,Pond
+5,Ground hole
+6,Other
+7,Spring
+8,Hand-dug well
+9,Borehole with handpump
+10,Rainwater
+11,Piped-borne water
+12,water vendors
+13,Lagoon
+14, Borehole with tap
+15, Solar-powered borehole
